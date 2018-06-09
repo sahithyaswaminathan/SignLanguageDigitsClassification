@@ -9,7 +9,7 @@ Sahithya Swaminathan
 
 Make sure to have installed [Tensorflow Framework](https://www.tensorflow.org/install/)
 
-This script is written in Jupyter Notebook (Python version 3.5)
+This script is written in Jupyter Notebook (Python version 3.5) and is uploaded as .py file
 
 ## Data Set
 
